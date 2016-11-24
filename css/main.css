@@ -78,6 +78,8 @@ nav a:hover {
 
   html {
     font: normal 110%/1.4 san-serif;
+    font-size: 110%;
+    line-height: 1.4;
   }
 
   header {
@@ -93,6 +95,8 @@ nav a:hover {
 
   html {
     font: normal 120%/1.5 san-serif;
+    line-height: 1.5;
+    font-size: 120%;
   }
 
   header {
@@ -108,6 +112,8 @@ nav a:hover {
 
   html {
     font: normal 130%/1.5 san-serif;
+    line-height: 1.5;
+    font-size: 130%;
   }
 
   header {
